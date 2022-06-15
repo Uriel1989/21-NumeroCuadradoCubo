@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\21-NumeroCuadradoCubo\21-NumeroCuadradoCubo\bin\Debug\21-NumeroCuadradoCubo.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\21-NumeroCuadradoCubo\21-NumeroCuadradoCubo\bin\Debug\21-NumeroCuadradoCubo.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\21-NumeroCuadradoCubo\21-NumeroCuadradoCubo\obj\Debug\21-NumeroCuadradoCubo.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\21-NumeroCuadradoCubo\21-NumeroCuadradoCubo\obj\Debug\21-NumeroCuadradoCubo.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\21-NumeroCuadradoCubo\21-NumeroCuadradoCubo\obj\Debug\21-NumeroCuadradoCubo.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\21-NumeroCuadradoCubo\21-NumeroCuadradoCubo\obj\Debug\21-NumeroCuadradoCubo.pdb
